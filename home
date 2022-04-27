@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>ToDo List</title>
-        <link rel="stylesheet" type="text/css" href="assests/cs/todos.css">
+        <link rel="stylesheet" type="text/css" href="/cs/todos.css">
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
         <script src="https://kit.fontawesome.com/e1e1c82d7f.js" crossorigin="anonymous"></script>
 
