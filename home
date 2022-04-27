@@ -21,6 +21,6 @@
         </ul>
     </div>
     
-<script type="text/javascript" src="assests/js/todos.js"></script>
+<script type="text/javascript" src="/js/todos.js"></script>
 </body>
 </html> 
